@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/unreal projects/mutateo group project/mutateo/Content/mainmenulevel.umap",
+				"D:/unreal projects/mutateo group project/mutateo/Content/EasyGameUI/Core/GlobalConfig/BP_EGUI_GlobalConfigSelector.uasset",
+				"D:/unreal projects/mutateo group project/mutateo/Content/EasyGameUI/Core/GlobalConfig/configsystem.uasset",
+				"D:/unreal projects/mutateo group project/mutateo/Content/EasyGameUI/EasySystemMenus/WBP_EasyMainMenu.uasset",
+				"D:/unreal projects/mutateo group project/mutateo/Content/EasyGameUI/EasySystemMenus/WBP_EasyIntroScreen.uasset",
+				"D:/unreal projects/mutateo group project/mutateo/Content/EasyGameUI/Core/GlobalConfig/DA_EGUI_DemoGlobalConfig.uasset",
+				"D:/unreal projects/mutateo group project/mutateo/Content/FirstPerson/Lvl_FirstPerson.umap",
+				"D:/unreal projects/mutateo group project/mutateo/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset"
+			]
+		}
+	]
+}
